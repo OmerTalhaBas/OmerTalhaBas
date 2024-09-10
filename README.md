@@ -1,7 +1,7 @@
 - 👋 Merhaba, Ben @OmerTalhaBas
 - 👀 Ben Su Anda C# Ile Ilgilenmekteyim!
 - 📒 Ucuncu Bin Yil Akademi'de Egitim Almaktayim.
-- 💞️ Siber Guvenlik ve Yapay Zeka Muhendisi Bolumlerinde Kendimi Ilerletmeyi Dusunuyorum.
+- 💞️ Siber Guvenlik ve Yapay Zeka Bolumlerinde Kendimi Ilerletmeyi Dusunuyorum.
 - 📫 Bana @omertalhabas Instagram Adresinden Ulasabilirsin.
 - 😄 Diller: C#, yakında gelecek...
 - ⚡ Hobilerim: Futbol Oynamaktan, Bilgisayar Oyunlari Oynamaktan Keyif Alirim.
